@@ -2,12 +2,12 @@
 This Java application demonstrates various sorting and searching algorithms using custom-built data structures. The application includes a graphical user interface (GUI) for user interaction and displays the execution time for each algorithm.
 
 ## Features
-*Custom data structures: LinkedList, DoublyLinkedList, BinarySearchTree, etc.
-*Sorting algorithms: Bubble Sort, Quick Sort
-*Searching algorithms: Binary Search, Sequential Search
-*Graphical User Interface (GUI) built with Java Swing
-*Displays execution time for sorting and searching algorithms
-*Option to visualize algorithms (additional feature)
+* Custom data structures: LinkedList, DoublyLinkedList, BinarySearchTree, etc.
+* Sorting algorithms: Bubble Sort, Quick Sort
+* Searching algorithms: Binary Search, Sequential Search
+* Graphical User Interface (GUI) built with Java Swing
+* Displays execution time for sorting and searching algorithms
+* Option to visualize algorithms (additional feature)
 
 ## Installation
 1. #### Clone the repository:
