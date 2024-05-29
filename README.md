@@ -10,7 +10,7 @@ This Java application demonstrates various sorting and searching algorithms usin
 *Option to visualize algorithms (additional feature)
 
 ## Installation
-1. ####Clone the repository:
+1. #### Clone the repository:
 ```
 git clone https://github.com/skitzke/DataStructuresAndAlgorithmsCanerCelik
 .git
