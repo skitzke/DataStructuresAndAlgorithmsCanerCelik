@@ -23,7 +23,7 @@ Open the project in IntelliJ IDEA, Eclipse, or any other Java IDE.
 
 3. #### Build and run the project:
 
-Compile and run the MainFrame class located in src/main/java/com/example/gui/MainFrame.java.
+Compile and run the MainFrame class located in src/main/java/com/gui/MainFrame.java.
 
 ## Usage
 1. #### Add Data:
@@ -32,9 +32,9 @@ Compile and run the MainFrame class located in src/main/java/com/example/gui/Mai
 
 
 2. #### Sort Data:
-  * Click the "Bubble Sort" button to sort the data using the Bubble Sort algorithm.
-  * Click the "Quick Sort" button to sort the data using the Quick Sort algorithm.
-  * The execution time will be displayed.
+   * Click the "Bubble Sort" button to sort the data using the Bubble Sort algorithm.
+   * Click the "Quick Sort" button to sort the data using the Quick Sort algorithm.
+   * The execution time will be displayed.
 
 
 3. #### Search Data:
