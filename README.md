@@ -25,7 +25,7 @@ Open the project in IntelliJ IDEA, Eclipse, or any other Java IDE.
 
 Compile and run the MainFrame class located in src/main/java/com/example/gui/MainFrame.java.
 
-##Usage
+## Usage
 1. #### Add Data:
    * Enter comma-separated values into the text area.
    * Click the "Add Data" button to add the data to the list.
